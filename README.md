@@ -19,3 +19,5 @@ The wiki area of this repository contains [documentation](https://github.com/IMS
 &copy; 2016 IMS Global Learning Consortium Inc. All Rights Reserved. Trademark Policy - (www.imsglobal.org/trademarks)
 
 <sup><sub>Learning Tools Interoperability and LTI are registered trademarks of IMS Global Learning Consortium Inc.</sub></sup>
+
+INIT conf to laravel
